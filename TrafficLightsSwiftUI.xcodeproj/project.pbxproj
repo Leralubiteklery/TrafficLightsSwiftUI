@@ -12,6 +12,7 @@
 		ED53CFDD2AC3242B0061641F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED53CFDC2AC3242B0061641F /* Assets.xcassets */; };
 		ED53CFE02AC3242B0061641F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED53CFDF2AC3242B0061641F /* Preview Assets.xcassets */; };
 		ED53CFE72AC3261D0061641F /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED53CFE62AC3261D0061641F /* CircleView.swift */; };
+		ED53CFE92AC469230061641F /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED53CFE82AC469230061641F /* ButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		ED53CFDC2AC3242B0061641F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED53CFDF2AC3242B0061641F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ED53CFE62AC3261D0061641F /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
+		ED53CFE82AC469230061641F /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				ED53CFDC2AC3242B0061641F /* Assets.xcassets */,
 				ED53CFDE2AC3242B0061641F /* Preview Content */,
 				ED53CFE62AC3261D0061641F /* CircleView.swift */,
+				ED53CFE82AC469230061641F /* ButtonView.swift */,
 			);
 			path = TrafficLightsSwiftUI;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				ED53CFE72AC3261D0061641F /* CircleView.swift in Sources */,
 				ED53CFDB2AC3242A0061641F /* ContentView.swift in Sources */,
+				ED53CFE92AC469230061641F /* ButtonView.swift in Sources */,
 				ED53CFD92AC3242A0061641F /* TrafficLightsSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
